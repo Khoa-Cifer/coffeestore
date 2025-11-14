@@ -1,0 +1,14 @@
+F:\projects\PRN232\PRN232.Lab2.CoffeeStore\PRN232.Lab2.CoffeeStore.Repositories\bin\Debug\net8.0\PRN232.Lab2.CoffeeStore.Repositories.deps.json
+F:\projects\PRN232\PRN232.Lab2.CoffeeStore\PRN232.Lab2.CoffeeStore.Repositories\bin\Debug\net8.0\PRN232.Lab2.CoffeeStore.Repositories.runtimeconfig.json
+F:\projects\PRN232\PRN232.Lab2.CoffeeStore\PRN232.Lab2.CoffeeStore.Repositories\bin\Debug\net8.0\PRN232.Lab2.CoffeeStore.Repositories.dll
+F:\projects\PRN232\PRN232.Lab2.CoffeeStore\PRN232.Lab2.CoffeeStore.Repositories\bin\Debug\net8.0\PRN232.Lab2.CoffeeStore.Repositories.pdb
+F:\projects\PRN232\PRN232.Lab2.CoffeeStore\PRN232.Lab2.CoffeeStore.Repositories\obj\Debug\net8.0\PRN232.Lab2.CoffeeStore.Repositories.csproj.AssemblyReference.cache
+F:\projects\PRN232\PRN232.Lab2.CoffeeStore\PRN232.Lab2.CoffeeStore.Repositories\obj\Debug\net8.0\PRN232.Lab2.CoffeeStore.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+F:\projects\PRN232\PRN232.Lab2.CoffeeStore\PRN232.Lab2.CoffeeStore.Repositories\obj\Debug\net8.0\PRN232.Lab2.CoffeeStore.Repositories.AssemblyInfoInputs.cache
+F:\projects\PRN232\PRN232.Lab2.CoffeeStore\PRN232.Lab2.CoffeeStore.Repositories\obj\Debug\net8.0\PRN232.Lab2.CoffeeStore.Repositories.AssemblyInfo.cs
+F:\projects\PRN232\PRN232.Lab2.CoffeeStore\PRN232.Lab2.CoffeeStore.Repositories\obj\Debug\net8.0\PRN232.Lab2.CoffeeStore.Repositories.csproj.CoreCompileInputs.cache
+F:\projects\PRN232\PRN232.Lab2.CoffeeStore\PRN232.Lab2.CoffeeStore.Repositories\obj\Debug\net8.0\PRN232.Lab2.CoffeeStore.Repositories.dll
+F:\projects\PRN232\PRN232.Lab2.CoffeeStore\PRN232.Lab2.CoffeeStore.Repositories\obj\Debug\net8.0\refint\PRN232.Lab2.CoffeeStore.Repositories.dll
+F:\projects\PRN232\PRN232.Lab2.CoffeeStore\PRN232.Lab2.CoffeeStore.Repositories\obj\Debug\net8.0\PRN232.Lab2.CoffeeStore.Repositories.pdb
+F:\projects\PRN232\PRN232.Lab2.CoffeeStore\PRN232.Lab2.CoffeeStore.Repositories\obj\Debug\net8.0\PRN232.Lab2.CoffeeStore.Repositories.genruntimeconfig.cache
+F:\projects\PRN232\PRN232.Lab2.CoffeeStore\PRN232.Lab2.CoffeeStore.Repositories\obj\Debug\net8.0\ref\PRN232.Lab2.CoffeeStore.Repositories.dll

@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\projects\\PRN232\\PRN232.Lab2.CoffeeStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26E79BF0-62F8-4543-B0A3-9BCEC15791B8}|PRN232.Lab2.CoffeeStore.API\\PRN232.Lab2.CoffeeStore.API.csproj|f:\\projects\\prn232\\prn232.lab2.coffeestore\\prn232.lab2.coffeestore.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E79BF0-62F8-4543-B0A3-9BCEC15791B8}|PRN232.Lab2.CoffeeStore.API\\PRN232.Lab2.CoffeeStore.API.csproj|solutionrelative:prn232.lab2.coffeestore.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E79BF0-62F8-4543-B0A3-9BCEC15791B8}|PRN232.Lab2.CoffeeStore.API\\PRN232.Lab2.CoffeeStore.API.csproj|f:\\projects\\prn232\\prn232.lab2.coffeestore\\prn232.lab2.coffeestore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26E79BF0-62F8-4543-B0A3-9BCEC15791B8}|PRN232.Lab2.CoffeeStore.API\\PRN232.Lab2.CoffeeStore.API.csproj|solutionrelative:prn232.lab2.coffeestore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1442E69-2579-4939-AECD-A207BD0D7AE8}|PRN232.Lab2.CoffeeStore.Repositories\\PRN232.Lab2.CoffeeStore.Repositories.csproj|f:\\projects\\prn232\\prn232.lab2.coffeestore\\prn232.lab2.coffeestore.repositories\\data\\coffeestoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1442E69-2579-4939-AECD-A207BD0D7AE8}|PRN232.Lab2.CoffeeStore.Repositories\\PRN232.Lab2.CoffeeStore.Repositories.csproj|solutionrelative:prn232.lab2.coffeestore.repositories\\data\\coffeestoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1442E69-2579-4939-AECD-A207BD0D7AE8}|PRN232.Lab2.CoffeeStore.Repositories\\PRN232.Lab2.CoffeeStore.Repositories.csproj|f:\\projects\\prn232\\prn232.lab2.coffeestore\\prn232.lab2.coffeestore.repositories\\migrations\\20251111231728_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1442E69-2579-4939-AECD-A207BD0D7AE8}|PRN232.Lab2.CoffeeStore.Repositories\\PRN232.Lab2.CoffeeStore.Repositories.csproj|solutionrelative:prn232.lab2.coffeestore.repositories\\migrations\\20251111231728_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "F:\\projects\\PRN232\\PRN232.Lab2.CoffeeStore\\PRN232.Lab2.CoffeeStore.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "PRN232.Lab2.CoffeeStore.API\\Controllers\\AuthController.cs",
+              "ToolTip": "F:\\projects\\PRN232\\PRN232.Lab2.CoffeeStore\\PRN232.Lab2.CoffeeStore.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "PRN232.Lab2.CoffeeStore.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T17:57:34.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoffeeStoreDbContext.cs",
+              "DocumentMoniker": "F:\\projects\\PRN232\\PRN232.Lab2.CoffeeStore\\PRN232.Lab2.CoffeeStore.Repositories\\Data\\CoffeeStoreDbContext.cs",
+              "RelativeDocumentMoniker": "PRN232.Lab2.CoffeeStore.Repositories\\Data\\CoffeeStoreDbContext.cs",
+              "ToolTip": "F:\\projects\\PRN232\\PRN232.Lab2.CoffeeStore\\PRN232.Lab2.CoffeeStore.Repositories\\Data\\CoffeeStoreDbContext.cs",
+              "RelativeToolTip": "PRN232.Lab2.CoffeeStore.Repositories\\Data\\CoffeeStoreDbContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:38:57.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20251111231728_InitialCreate.cs",
+              "DocumentMoniker": "F:\\projects\\PRN232\\PRN232.Lab2.CoffeeStore\\PRN232.Lab2.CoffeeStore.Repositories\\Migrations\\20251111231728_InitialCreate.cs",
+              "RelativeDocumentMoniker": "PRN232.Lab2.CoffeeStore.Repositories\\Migrations\\20251111231728_InitialCreate.cs",
+              "ToolTip": "F:\\projects\\PRN232\\PRN232.Lab2.CoffeeStore\\PRN232.Lab2.CoffeeStore.Repositories\\Migrations\\20251111231728_InitialCreate.cs",
+              "RelativeToolTip": "PRN232.Lab2.CoffeeStore.Repositories\\Migrations\\20251111231728_InitialCreate.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:32:55.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\projects\\PRN232\\PRN232.Lab2.CoffeeStore\\PRN232.Lab2.CoffeeStore.API\\appsettings.json",
+              "RelativeDocumentMoniker": "PRN232.Lab2.CoffeeStore.API\\appsettings.json",
+              "ToolTip": "F:\\projects\\PRN232\\PRN232.Lab2.CoffeeStore\\PRN232.Lab2.CoffeeStore.API\\appsettings.json",
+              "RelativeToolTip": "PRN232.Lab2.CoffeeStore.API\\appsettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-11T23:32:35.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
